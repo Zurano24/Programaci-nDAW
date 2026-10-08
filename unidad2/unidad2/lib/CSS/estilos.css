@@ -1,0 +1,51 @@
+* {
+    background-color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
+
+
+
+
+h1{
+    color: blue;
+    text-align: center;
+    background-color: yellow;
+}
+.grande {
+    font-size: 1.5em;
+
+}
+h1.grande {
+    font-size: 4em;
+}
+.impar {
+    color: blue;
+    text-align: justify;
+
+}
+
+#segundo{
+color: red;
+text-align: right;
+}
+a [target] {
+    color: green;
+}
+
+p::first-letter {
+    color: blueviolet;
+    font-size: xx-large;
+}
+a:active {
+    background-color: rgb(16, 218, 23);
+}
+a:visited {
+    color: red;
+
+}
+a:hoved {
+    color: rgb(237, 17, 134);
+
+}
